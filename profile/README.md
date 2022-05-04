@@ -1,6 +1,8 @@
 ![원티드 프리온보딩 백엔드 코스](https://static.wanted.co.kr/images/events/1954/a4449035.jpg)
 
 # Intro
+<div align="center">
+
 | name | title | profile link | email |
 |------|-------|--------------|-------|
 | 장우경 | 팀장 | [@Bruno-Jang](https://github.com/Bruno-Jang) | sosdnrud@gmail.com |
@@ -8,11 +10,12 @@
 | 진병수 | 팀원 | [@castela0119](https://github.com/castela0119) | castela0119@gmail.com |
 | 김수빈 | 팀원 | [@AshbeeKim](https://github.com/AshbeeKim) | ksb.forest@gmail.com |
 
+</div>
 </br>
 
 안녕하세요. 
 
-원티드에서 진행하는 **프리온보딩 백엔드 코스 2기 C팀**입니다.
+원티드에서 진행하는 <large>**프리온보딩 백엔드 코스 2기 C팀**</large>입니다.
 
 저희가 과제 수행 시에 사용한 언어 및 환경, 수행해야 할 과제 정보 및 진행 현황, 프로젝트를 진행하고 지키고자 협약한 규칙에 대한 내용이 정리된 다음의 목차를 클릭하시면 원하시는 내용을 확인할 수 있습니다.
 
@@ -40,11 +43,13 @@
 ---
 ## Projects
 
-* MADUP
-    * Github Issues와 연동된 Kanban Board [Github Project | progress](https://github.com/orgs/PreOnboarding-Team-C/projects/1/views/2)
-    * 막히는 부분을 함께 고민하고, 코드 추가 설명을 작성하며 의견 공유를 기록하기 위한 목적으로 생성된 [Trello | Madup](https://trello.com/b/s0PLzIuF/madup) 
+* [MADUP](https://github.com/PreOnboarding-Team-C/Madup)
+    * [Github Project | Madup](https://github.com/orgs/PreOnboarding-Team-C/projects/1/views/2)
+    * [Trello | Madup](https://trello.com/b/s0PLzIuF/madup) 
+* [BEARROBOTICS](https://github.com/PreOnboarding-Team-C/BearRobotics)
+    * [Github Project | BearRobotics](https://github.com/orgs/PreOnboarding-Team-C/projects/2/views/1)
+    * [Trello | BearRobotics](https://trello.com/invite/b/p5wi33w9/38afe63b0131095d4b4e470154b52741/robotics) 
 * Humanscape
-* BEARROBOTICS
 * MoAdata
 
 </br>
