@@ -49,7 +49,9 @@
 * [BEARROBOTICS](https://github.com/PreOnboarding-Team-C/BearRobotics)
     * [Github Project | BearRobotics](https://github.com/orgs/PreOnboarding-Team-C/projects/2/views/1)
     * [Trello | BearRobotics](https://trello.com/invite/b/p5wi33w9/38afe63b0131095d4b4e470154b52741/robotics) 
-* Humanscape
+* [Humanscape](https://github.com/PreOnboarding-Team-C/Humanscape)
+    * [Github Project | Humanscape](https://github.com/orgs/PreOnboarding-Team-C/projects/3/views/2)
+    * [Trello | Humanscape](https://trello.com/invite/b/kLvSNrY9/b1f7a69706839f0e0f6049238a3b5d4b/humanscape)
 * MoAdata
 
 </br>
