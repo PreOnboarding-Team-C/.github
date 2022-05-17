@@ -52,7 +52,8 @@
 * [Humanscape](https://github.com/PreOnboarding-Team-C/Humanscape)
     * [Github Project | Humanscape](https://github.com/orgs/PreOnboarding-Team-C/projects/3/views/2)
     * [Trello | Humanscape](https://trello.com/invite/b/kLvSNrY9/b1f7a69706839f0e0f6049238a3b5d4b/humanscape)
-* MoAdata
+* [MoAdata](https://github.com/PreOnboarding-Team-C/MoaData)
+    * [Trello | MoAdata](https://trello.com/invite/b/MhjfeAvw/e520d2ef3b1cd5cd325fcca763f900e0/moadata)
 
 </br>
 
